@@ -3,6 +3,11 @@
 ## Description
 Text Editor is a progressive web application that runs in the browswer. This application can also function offline due to the implementation of service workers.
 
+## Website
+ https://obscure-waters-84488.herokuapp.com/
+
+
+
 ## Built With
 * JavaScript
 * IndexedDB
